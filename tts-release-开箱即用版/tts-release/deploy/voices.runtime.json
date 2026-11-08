@@ -1,0 +1,20 @@
+{
+  "_comment": "开箱即用配置：只带庄方宜一个音色，路径全部相对发布目录，安装脚本会自动改成绝对路径。",
+  "default": "zhuangfangyi",
+  "voices": [
+    {
+      "id": "zhuangfangyi",
+      "name": "庄方宜",
+      "desc": "清冷平稳，适合旁白与叙述",
+      "avatar": "庄",
+      "gender": "female",
+      "lang": "zh",
+      "refLang": "zh",
+      "refDuration": 5.1,
+      "gpt": "@MODELS@/庄方宜/庄方宜-e15.ckpt",
+      "sovits": "@MODELS@/庄方宜/庄方宜_e8_s1248.pth",
+      "ref": "@MODELS@/庄方宜/ref/ref.wav",
+      "refText": "实验报告已经上传，你这几天要是有时间记得看一眼。"
+    }
+  ]
+}

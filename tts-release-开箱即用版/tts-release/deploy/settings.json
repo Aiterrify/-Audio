@@ -1,0 +1,16 @@
+{
+  "translate" : {
+    "mode" : "free",
+    "baseUrl" : "",
+    "apiKey" : "",
+    "model" : "gpt-4o-mini"
+  },
+  "customTts" : {
+    "enabled" : false,
+    "protocol" : "openai",
+    "endpoint" : "",
+    "apiKey" : "",
+    "model" : "tts-1",
+    "voice" : "alloy"
+  }
+}
